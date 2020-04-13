@@ -7,7 +7,7 @@ This program is a failed final round interview question for MicroSoft that has h
 since I failed...
 The question was to find the longest contigous non-intersecting substring
 This program outlines what I tried attempting during that interview which 
-was the brute force method O(n^2) runtime
+was the brute force method O(n^3) runtime
 */
 class LongestNonInterContigSS{
     //MaxItem class to find all of the stuff we might need with the MaxSS
